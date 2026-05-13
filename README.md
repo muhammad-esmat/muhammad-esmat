@@ -12,9 +12,3 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af9941816646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="50" height="50"/> </a>
 </p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-esmat&show_icons=true&locale=en&layout=compact" alt="muhammad-esmat" /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=muhammad-esmat&show_icons=true&locale=en" alt="muhammad-esmat" /></p>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-esmat&" alt="muhammad-esmat" /></p>
