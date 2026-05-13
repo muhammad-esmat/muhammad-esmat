@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
 <h3 align="center">A passionate developer from Egypt</h3>
 
+---
+
+<h3 align="center" style="color: #00d4ff;">Currently Learning</h3>
+<p align="center">
+  <strong style="font-size: 18px; background: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">📚 Data Structures & Algorithms (DSA)</strong>
+</p>
+
+---
+
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a>&nbsp;&nbsp;&nbsp;
@@ -12,5 +21,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af9941816646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="50" height="50"/> </a>
 </p>
+
+---
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-esmat&" alt="muhammad-esmat" /></p>
