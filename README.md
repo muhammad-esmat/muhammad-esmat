@@ -3,13 +3,6 @@
 
 ---
 
-<h3 align="center" style="color: #00d4ff;">Currently Picking up</h3>
-<p align="center">
-  <strong style="font-size: 18px; background: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">📚 Data Structures & Algorithms (DSA)</strong>
-</p>
-
----
-
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a>&nbsp;&nbsp;&nbsp;
